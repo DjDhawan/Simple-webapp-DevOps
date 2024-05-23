@@ -33,6 +33,6 @@
 
    <h1> Intensive DevOps Learning </h1>
    <h1> Thankyou, Happy Learning </h1>
-   <h1> Successfully implemented auto deployment using Ansible. </h1>
+   <h1> Successfully implemented auto deployment using Ansible </h1>
   
 </form>
